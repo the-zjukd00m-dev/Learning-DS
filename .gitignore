@@ -1,0 +1,16 @@
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# General
+*.egg-info/
+.DS_Store
+
+# IDE and virtual environment
+.idea/
+.vscode/
+.venv/
